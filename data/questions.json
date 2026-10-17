@@ -1,0 +1,22 @@
+[
+  {
+    "id": "wire",
+    "query": "What is the domestic wire fee?",
+    "relevant": ["operations-manual#wire-fees"]
+  },
+  {
+    "id": "lunch",
+    "query": "How much is the staff lunch stipend?",
+    "relevant": ["operations-manual#lunch"]
+  },
+  {
+    "id": "approval",
+    "query": "When does a payment need a human approver?",
+    "relevant": ["mandate-policy", "mandate-policy#approval"]
+  },
+  {
+    "id": "vendor",
+    "query": "Which client identifier must never be sent to a model vendor?",
+    "relevant": ["kyc-policy", "kyc-policy#vendor-data"]
+  }
+]
