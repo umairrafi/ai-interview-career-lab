@@ -1,6 +1,6 @@
 # Interview pack
 
-Study [questions.md](questions.md). It is the question set from the 2026 RAG, agent, and eval interviews, with an answer for each one. Run `python3 run.py` in the `labs` folder before you practice, and quote the numbers it prints.
+Study [questions.md](questions.md). It is the question set from the 2026 RAG, agent, and eval interviews, with an answer for each one. Run `python3 run.py` from this repository before you practice, and quote the numbers it prints.
 
 This page is the short spoken version of the lab only. The customer conversation is [discovery-drill.md](discovery-drill.md).
 
