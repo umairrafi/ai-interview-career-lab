@@ -1,0 +1,13 @@
+[project]
+name = "ledgerlab"
+version = "0.1.0"
+description = "Hands-on labs for forward-deployed and agentic engineering interviews"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
